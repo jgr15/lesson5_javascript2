@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(10 19, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Jacob Roberts)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Create a tax estimating program.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jgr15.github.io/lesson5_javascript2/  
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (If statements can be used to choose what to run a users input through.)
+2. (How to clear the input a user enters after they are done.)
+3. (How to make different inputs lead down different program paths..)
 
